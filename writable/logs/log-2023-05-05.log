@@ -1,0 +1,259 @@
+CRITICAL - 2023-05-05 05:18:08 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:18:46 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:19:18 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:23:54 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:27:07 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:30:24 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:30:52 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:32:29 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:34:20 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:35:04 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:35:14 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:35:58 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:36:04 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:38:31 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:38:55 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:39:32 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:41:21 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:41:38 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:46:31 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:47:19 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:48:56 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:50:13 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:50:21 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:50:29 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:51:23 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:57:22 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 05:58:30 --> There is no data to insert.
+#0 C:\data\RestApi_CI4_simple\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#7 {main}
+CRITICAL - 2023-05-05 06:00:37 --> Undefined index: product_name
+#0 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(65): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\data\\RestApi...', 65, Array)
+#1 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->update('3')
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#6 {main}
+CRITICAL - 2023-05-05 06:00:44 --> Undefined index: product_name
+#0 C:\data\RestApi_CI4_simple\app\Controllers\Products.php(65): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\data\\RestApi...', 65, Array)
+#1 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(914): App\Controllers\Products->update('3')
+#2 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#3 C:\data\RestApi_CI4_simple\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\data\RestApi_CI4_simple\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\data\RestApi_CI4_simple\system\Commands\Server\rewrite.php(34): require_once('C:\\data\\RestApi...')
+#6 {main}

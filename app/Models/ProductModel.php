@@ -6,5 +6,6 @@ class ProductModel extends Model
 {
     protected $table = 'product';
     protected $primaryKey = 'product_id';
+
     protected $allowedFields = ['product_name','product_price'];
 }

@@ -35,7 +35,7 @@ class Products extends ResourceController
             'product_name' => $this->request->getPost('product_name'),
             'product_price' => $this->request->getPost('product_price')
         ];
-		$data = json_decode(file_get_contents("php://input"));
+		//$data = json_decode(file_get_contents("php://input"));
 		//$data = $this->request->getPost();
         $model->insert($data);
         $response = [
